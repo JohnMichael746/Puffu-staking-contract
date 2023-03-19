@@ -1,5 +1,5 @@
 # Puffu-staking-contract
-Standard Program for nft staking on Solana
+Standard Program for nft staking on Solana.
 
 ## Overview
 This is anchor project for nft staking written by crytolover
